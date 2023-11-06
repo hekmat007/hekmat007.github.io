@@ -1,0 +1,27 @@
+<html>
+<head>
+
+</head>
+<body align="middle" bgcolor=lightsteelblue>
+<p style="color:black;text-align:center;font-size:30;font-family:Arial"> <b><i>What are five pillars of Islam?</i></b> </p>
+
+<p style="color:black;text-align:center;font-size:20;font-family:Arial">The five pillars of Islam are: the testimony of faith, prayer, zakat, fasting of Ramadan, and performing hajj. The Messenger of Allah ﷺ said: " Islam is based on (the following) five (principles): 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ). 2. To offer the (compulsory congregational) prayers dutifully and perfectly. 3. To pay Zakat (i.e. obligatory charity). 4. To perform Hajj. (i.e. Pilgrimage to Mecca) 5. To observe fast during the month of Ramadan.
+<br><br>
+In simpler terms:
+<style>
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+</style>
+<div class="myDivElement">
+<ul>
+<li>Belief in God</li>
+<li>Belief in angels</li>
+<li>Belief in Divinely revealed books</li>
+<li>Belief in the Messengers of God</li>
+<li>Belief in the Day of Judgement</li>
+<li>Belief in Divine Decree</li>
+</ul>
+</div>
